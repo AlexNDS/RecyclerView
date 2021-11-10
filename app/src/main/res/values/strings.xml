@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="lik_e_me">LIK?E ME</string>
+    <string name="label_1">LIKE</string>
+</resources>
